@@ -1,2 +1,2 @@
-# osdev-meaty-skeleton
-The OSDev meaty skeleton
+# My epic OS
+Based on the OSDev meaty skeleton.
